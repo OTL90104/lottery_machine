@@ -1,0 +1,7 @@
+c:\users\user\source\repos\lottery_machine\lottery_machine\bin\Debug\lottery_machine.exe.config
+c:\users\user\source\repos\lottery_machine\lottery_machine\bin\Debug\lottery_machine.exe
+c:\users\user\source\repos\lottery_machine\lottery_machine\bin\Debug\lottery_machine.pdb
+c:\users\user\source\repos\lottery_machine\lottery_machine\obj\Debug\lottery_machine.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\lottery_machine\lottery_machine\obj\Debug\lottery_machine.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\lottery_machine\lottery_machine\obj\Debug\lottery_machine.exe
+c:\users\user\source\repos\lottery_machine\lottery_machine\obj\Debug\lottery_machine.pdb
